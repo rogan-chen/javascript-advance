@@ -1,14 +1,3 @@
----
-title: TypeScript小结
-date: 2020-08-02
-sidebar: 'auto'
-categories:
- - JavaScript
-tags:
- - TypeScript
-publish: true
----
-
 ## 1. TypeScript是什么
 
 - Typescript是由微软开发的一款**开源**的编程语言
